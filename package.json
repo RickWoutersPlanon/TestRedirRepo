@@ -1,0 +1,11 @@
+{
+  "name": "routerappp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "router.js",
+  "scripts": {
+    "start":"node router.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
